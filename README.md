@@ -1,4 +1,12 @@
-# 🚀 Luis Víquez Abarca
+<svg width="100%" height="100">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff00ff; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00ffff; stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" font-size="50" text-anchor="middle" fill="url(#gradient)" font-family="Arial, sans-serif" dy=".3em">Luis Víquez</text>
+</svg>
 
 **Full Stack Developer | Frontend Specialist**
 
@@ -7,45 +15,45 @@
 
 ---
 
-## 🌟 Sobre mí
-¡Hola! Soy Luis Víquez, un desarrollador Full Stack apasionado por el desarrollo web y la creación de interfaces atractivas y funcionales. Me especializo en tecnologías modernas como **React, Astro y TailwindCSS**, con un fuerte enfoque en UI/UX. Actualmente, estoy cursando una **Licenciatura en Ingeniería de Software** y siempre estoy buscando aprender y mejorar mis habilidades.
+## 🌟 About Me
+Hi! I'm Luis Víquez, a Full Stack Developer passionate about web development and creating attractive, functional interfaces. I specialize in modern technologies like **React, Astro, and TailwindCSS**, with a strong focus on UI/UX. Currently, I'm pursuing a **Bachelor's Degree in Software Engineering** and constantly seeking opportunities to learn and improve my skills.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, TailwindCSS
 - **Backend:** Node.js, Express, C#
-- **Bases de Datos:** MongoDB, SQL Server
-- **Herramientas y Otros:** Git, Vercel, Docker
+- **Databases:** MongoDB, SQL Server
+- **Tools & Others:** Git, Vercel, Docker
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
 ### 🍕 Pizza Shack
-📌 Aplicación de gestión de restaurantes en tiempo real, permitiendo a los usuarios hacer pedidos y seguir su progreso.
+📌 Real-time restaurant management application, allowing users to place orders and track their progress.
 
-- **Tecnologías usadas:** React, Next.js, TailwindCSS
-- **Rol:** Diseño de UI/UX y desarrollo de componentes reutilizables
+- **Technologies Used:** React, Next.js, TailwindCSS
+- **Role:** UI/UX design and development of reusable components
 
 ### 🐙 Octopus Software
-📌 Plataforma web desarrollada con Astro JS y React para mejorar la experiencia del usuario con interfaces dinámicas y responsivas.
+📌 Web platform developed with Astro JS and React to enhance user experience with dynamic and responsive interfaces.
 
-- **Tecnologías usadas:** Astro JS, React, TailwindCSS
-- **Rol:** Creación de una interfaz interactiva y optimización del rendimiento
+- **Technologies Used:** Astro JS, React, TailwindCSS
+- **Role:** Interactive interface creation and performance optimization
 
 ---
 
-## 📚 Educación
+## 📚 Education
 🎓 **Universidad Técnica Nacional**
-- **Diploma en Ingeniería de Software** (2022 - Presente)
-- **Licenciatura en Ingeniería de Software** *(Esperado: Agosto 2026)*
+- **Diploma in Software Engineering** (2022 - Present)
+- **Bachelor's Degree in Software Engineering** *(Expected: August 2026)*
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 
-¡Gracias por visitar mi perfil! 🚀
+Thanks for visiting my profile! 🚀
