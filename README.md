@@ -1,12 +1,4 @@
-<svg width="100%" height="100">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff00ff; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00ffff; stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <text x="50%" y="50%" font-size="50" text-anchor="middle" fill="url(#gradient)" font-family="Arial, sans-serif" dy=".3em">Luis Víquez</text>
-</svg>
+# 🚀 Luis Víquez
 
 **Full Stack Developer | Frontend Specialist**
 
@@ -54,6 +46,6 @@ Hi! I'm Luis Víquez, a Full Stack Developer passionate about web development an
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-v%C3%ADquez-1281a030a/)
 
 Thanks for visiting my profile! 🚀
